@@ -1,9 +1,10 @@
+[![Atractor_20231214141216](https://github.com/NcAc-cAcN/NcAc-cAcN/assets/111702914/e17235d9-3a9a-4410-aec8-dfea47937974)]
+
 <h1 align="center">Hi 👋</h1>
 <h3 align="center">I'm a guy who likes to program</h3>
 
 - 💬 Ask me about **Ai, algorithms**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
